@@ -1,0 +1,100 @@
+<svg fill="none"  xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="850px" height="500px">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+                .body {
+                    font-family: 'Fira Code';
+                }
+
+                .icon_svg {
+                    margin: 0 15px;
+                    font-size: 40px;
+                }
+
+                .img_svg:hover {
+                    filter: invert(30%);
+                }
+
+                .skill_list {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    align-content: center;
+                    flex-wrap: wrap;
+
+                }
+
+                .img_svg {
+                    margin: 0 15px;
+                    width: 50px;
+                    height: 60px;
+                }
+
+                .BreakLine {
+                    padding: 3px;
+                }
+
+                .social_list {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                }
+            </style>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+            <div class="body">
+                <h1 align="center">Hello 🗺️, Sou Elton</h1>
+
+                <h3 align="center">Tudo indica que sou um Dev Backend</h3>
+                <p>
+                    🔸 🔭 Trabalho atualmente em projetos <b>NodeJS</b> e <b>Python</b>
+                <div class="BreakLine"></div>
+                🔸 🌱 Atualmente estou estudando <b>Arquitetura de software</b> e <b>Rust(tentando pelo menos)</b>
+                <div class="BreakLine"></div>
+                🔸 📫 Como entrar em contanto: eltonrodrigues61@gmail.com
+                </p>
+                <div class="BreakLine"></div>
+                <h3 align="left">Social</h3>
+                <div class="social_list">
+                    <a href="https://linkedin/in/eltonarodrigues" target="blank">
+                        <img class="img_svg"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+                    </a>
+                    <a href="https://twitter.com/eltonarodrigues" target="blank">
+                        <img class="img_svg"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+                    </a>
+                </div>
+                <h3 align="left">Linguagens e ferramentas</h3>
+                <div class="skill_list" align="left">
+
+
+
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+                    <img class="img_svg"
+                        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+                    <img class="img_svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
