@@ -15,7 +15,7 @@
     }
 
     class Skills extends Desenvolvedor {
-        linguagens: ['Python', 'NodeJS (JavaScript/TypeScript)'];
+        linguagens: ['Python', 'NodeJS (JS/TS)'];
         bancoDeDados: ['MongoDB', 'PostgreSQL/MYSQL'];
         containers: ['Docker', 'Kubernetes'];
         cloud: ['AWS'];
