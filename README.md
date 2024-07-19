@@ -40,7 +40,7 @@
         </a>
         <a href="mailto:eltonrodrigues61@gmail.com" target="blank">
             <img class="img_svg" style="margin: 0 5px;"
-                src="https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonrodrigues61@gmail.com" />
+                src="https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonrodrigues61@gmail.com" />
         </a>
 </div>
 <br>
